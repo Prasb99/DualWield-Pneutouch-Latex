@@ -1,14 +1,11 @@
 # DualWield-Pneutouch-Latex
 \documentclass[sigconf,review]{acmart}
 
-% Replace 'Demo: DualWield Pneutouch' with the title of your paper
 \title{Demo: DualWield Pneutouch}
 
-% Replace 'Your Name' with the author(s) of the paper
-\author{Author Name}
+\author{Author name}
 
-% Replace 'Year' with the year of your paper
-\acmYear{Year}
+\acmYear{2024}
 
 % Replace 'x' with the number of your paper
 \acmConference[UIST 'x]{ACM Symposium on User Interface Software and Technology}{Month Date, Year}{Location}
